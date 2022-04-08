@@ -1,0 +1,781 @@
+,country,food_category,consumption,co2_emmission,Continent
+0,Albania,Fish,3.85,6.15,Europe
+1,Albania,Grains,73.21,18.200000000000003,Europe
+2,Albania,Milk and Wheat Products,303.72,432.62,Europe
+3,Albania,Poultry,12.84,12.825,Europe
+4,Albania,Protein Foods,2.1799999999999997,3.86,Europe
+5,Albania,Red Meat,16.233333333333334,423.1033333333333,Europe
+6,Algeria,Fish,3.74,5.970000000000001,Africa
+7,Algeria,Grains,94.195,19.58,Africa
+8,Algeria,Milk and Wheat Products,141.53,201.6,Africa
+9,Algeria,Poultry,7.74,7.6850000000000005,Africa
+10,Algeria,Protein Foods,1.04,1.84,Africa
+11,Algeria,Red Meat,4.43,147.36666666666667,Africa
+12,Angola,Fish,15.239999999999998,24.33,Africa
+13,Angola,Grains,24.42,9.08,Africa
+14,Angola,Milk and Wheat Products,12.3,17.52,Africa
+15,Angola,Poultry,9.22,9.82,Africa
+16,Angola,Protein Foods,1.39,2.115,Africa
+17,Angola,Red Meat,6.13,109.70333333333333,Africa
+18,Argentina,Fish,4.359999999999999,6.96,South America
+19,Argentina,Grains,55.94,15.440000000000001,South America
+20,Argentina,Milk and Wheat Products,195.08,277.87,South America
+21,Argentina,Poultry,25.025,25.995,South America
+22,Argentina,Protein Foods,0.245,0.43500000000000005,South America
+23,Argentina,Red Meat,22.516666666666666,601.2766666666668,South America
+24,Armenia,Fish,4.359999999999999,6.96,Asia
+25,Armenia,Grains,66.89,14.49,Asia
+26,Armenia,Milk and Wheat Products,209.03,297.74,Asia
+27,Armenia,Poultry,12.52,12.54,Asia
+28,Armenia,Protein Foods,1.275,2.255,Asia
+29,Armenia,Red Meat,10.783333333333333,248.88666666666668,Asia
+30,Australia,Fish,17.69,28.25,Oceania
+31,Australia,Grains,40.745000000000005,13.78,Oceania
+32,Australia,Milk and Wheat Products,234.49,334.01,Oceania
+33,Australia,Poultry,27.315,28.68,Oceania
+34,Australia,Protein Foods,4.459999999999999,7.77,Oceania
+35,Australia,Red Meat,22.623333333333335,491.98,Oceania
+36,Austria,Fish,12.16,19.42,Europe
+37,Austria,Grains,42.4,10.100000000000001,Europe
+38,Austria,Milk and Wheat Products,258.09,367.62,Europe
+39,Austria,Poultry,16.645000000000003,16.74,Europe
+40,Austria,Protein Foods,4.97,7.4399999999999995,Europe
+41,Austria,Red Meat,23.62,251.85333333333332,Europe
+42,Bahamas,Fish,18.8,30.02,North America
+43,Bahamas,Grains,31.974999999999998,19.145,North America
+44,Bahamas,Milk and Wheat Products,104.76,149.22,North America
+45,Bahamas,Poultry,25.970000000000002,27.415000000000003,North America
+46,Bahamas,Protein Foods,2.06,3.585,North America
+47,Bahamas,Red Meat,19.293333333333333,304.4566666666667,North America
+48,Bangladesh,Fish,18.07,28.85,Asia
+49,Bangladesh,Grains,94.6,111.545,Asia
+50,Bangladesh,Milk and Wheat Products,21.91,31.21,Asia
+51,Bangladesh,Poultry,1.74,1.705,Asia
+52,Bangladesh,Protein Foods,0.665,0.77,Asia
+53,Bangladesh,Red Meat,0.8700000000000001,28.69333333333333,Asia
+54,Barbados,Fish,37.41,59.73,North America
+55,Barbados,Grains,40.685,16.285,North America
+56,Barbados,Milk and Wheat Products,110.48,157.37,North America
+57,Barbados,Poultry,26.115000000000002,27.305,North America
+58,Barbados,Protein Foods,2.1299999999999994,3.7049999999999996,North America
+59,Barbados,Red Meat,8.503333333333334,192.47333333333336,North America
+60,Belarus,Fish,15.75,25.15,Europe
+61,Belarus,Grains,31.825,7.795,Europe
+62,Belarus,Milk and Wheat Products,133.73,190.49,Europe
+63,Belarus,Poultry,23.575,24.09,Europe
+64,Belarus,Protein Foods,1.8299999999999998,3.045,Europe
+65,Belarus,Red Meat,19.19666666666667,224.90666666666667,Europe
+66,Belgium,Fish,18.97,30.29,Europe
+67,Belgium,Grains,60.26,16.18,Europe
+68,Belgium,Milk and Wheat Products,236.19,336.42999999999995,Europe
+69,Belgium,Poultry,12.395,12.34,Europe
+70,Belgium,Protein Foods,3.695,6.495,Europe
+71,Belgium,Red Meat,18.533333333333335,221.78,Europe
+72,Belize,Fish,7.57,12.09,North America
+73,Belize,Grains,41.24,23.34,North America
+74,Belize,Milk and Wheat Products,80.3,114.38,North America
+75,Belize,Poultry,16.58,17.435,North America
+76,Belize,Protein Foods,3.73,5.365,North America
+77,Belize,Red Meat,7.266666666666667,71.44333333333334,North America
+78,Bermuda,Fish,33.220000000000006,53.04,North America
+79,Bermuda,Grains,30.130000000000003,8.675,North America
+80,Bermuda,Milk and Wheat Products,95.56,136.12,North America
+81,Bermuda,Poultry,23.770000000000003,24.375,North America
+82,Bermuda,Protein Foods,2.9699999999999998,5.109999999999999,North America
+83,Bermuda,Red Meat,21.366666666666664,405.9333333333334,North America
+84,Bolivia,Fish,2.18,3.48,South America
+85,Bolivia,Grains,38.49,22.035,South America
+86,Bolivia,Milk and Wheat Products,46.04,65.58,South America
+87,Bolivia,Poultry,19.744999999999997,20.81,South America
+88,Bolivia,Protein Foods,4.585,8.105,South America
+89,Bolivia,Red Meat,10.13,234.02333333333334,South America
+90,Bosnia and Herzegovina,Fish,4.06,6.48,Europe
+91,Bosnia and Herzegovina,Grains,47.72,10.125,Europe
+92,Bosnia and Herzegovina,Milk and Wheat Products,174.03,247.89,Europe
+93,Bosnia and Herzegovina,Poultry,8.83,9.135,Europe
+94,Bosnia and Herzegovina,Protein Foods,1.74,2.105,Europe
+95,Bosnia and Herzegovina,Red Meat,6.323333333333333,110.36,Europe
+96,Botswana,Fish,3.98,6.35,Africa
+97,Botswana,Grains,22.630000000000003,8.155,Africa
+98,Botswana,Milk and Wheat Products,117.74,167.70999999999998,Africa
+99,Botswana,Poultry,3.64,3.7600000000000002,Africa
+100,Botswana,Protein Foods,1.12,1.2149999999999999,Africa
+101,Botswana,Red Meat,4.116666666666666,125.50666666666666,Africa
+102,Brazil,Fish,10.01,15.98,South America
+103,Brazil,Grains,42.565,25.615000000000002,South America
+104,Brazil,Milk and Wheat Products,149.28,212.63,South America
+105,Brazil,Poultry,26.990000000000002,28.295,South America
+106,Brazil,Protein Foods,2.145,1.4100000000000001,South America
+107,Brazil,Red Meat,17.49,425.8266666666666,South America
+108,Bulgaria,Fish,6.24,9.96,Europe
+109,Bulgaria,Grains,61.705,12.990000000000002,Europe
+110,Bulgaria,Milk and Wheat Products,155.70999999999998,221.79,Europe
+111,Bulgaria,Poultry,14.52,14.945,Europe
+112,Bulgaria,Protein Foods,1.15,2.01,Europe
+113,Bulgaria,Red Meat,10.576666666666666,89.50666666666666,Europe
+114,Cambodia,Fish,39.59,63.21,Asia
+115,Cambodia,Grains,80.92,102.06,Asia
+116,Cambodia,Milk and Wheat Products,3.47,4.94,Asia
+117,Cambodia,Poultry,1.605,1.62,Asia
+118,Cambodia,Protein Foods,2.79,2.08,Asia
+119,Cambodia,Red Meat,3.7899999999999996,57.57999999999999,Asia
+120,Cameroon,Fish,14.71,23.49,Africa
+121,Cameroon,Grains,23.225,17.415,Africa
+122,Cameroon,Milk and Wheat Products,15.27,21.75,Africa
+123,Cameroon,Poultry,1.845,1.95,Africa
+124,Cameroon,Protein Foods,4.965,8.364999999999998,Africa
+125,Cameroon,Red Meat,2.3466666666666662,60.97,Africa
+126,Canada,Fish,14.56,23.25,North America
+127,Canada,Grains,48.80500000000001,16.195,North America
+128,Canada,Milk and Wheat Products,187.77,267.46,North America
+129,Canada,Poultry,24.814999999999998,25.65,North America
+130,Canada,Protein Foods,4.475,7.3,North America
+131,Canada,Red Meat,18.01,349.3866666666667,North America
+132,Chile,Fish,7.649999999999999,12.21,South America
+133,Chile,Grains,56.795,15.649999999999999,South America
+134,Chile,Milk and Wheat Products,116.11,165.39,South America
+135,Chile,Poultry,23.245,24.195,South America
+136,Chile,Protein Foods,1.1300000000000001,1.975,South America
+137,Chile,Red Meat,16.32,279.4433333333334,South America
+138,China,Fish,21.01,33.55,Asia
+139,China,Grains,70.77,56.065,Asia
+140,China,Milk and Wheat Products,32.660000000000004,46.52,Asia
+141,China,Poultry,15.98,15.705,Asia
+142,China,Protein Foods,5.025,6.48,Asia
+143,China,Red Meat,15.56,134.54,Asia
+144,Colombia,Fish,6.01,9.6,South America
+145,Colombia,Grains,28.905,20.77,South America
+146,Colombia,Milk and Wheat Products,108.47,154.5,South America
+147,Colombia,Poultry,19.175,19.76,South America
+148,Colombia,Protein Foods,0.655,0.5700000000000001,South America
+149,Colombia,Red Meat,7.6933333333333325,178.41,South America
+150,Congo,Fish,26.22,41.86,Africa
+151,Congo,Grains,28.29,14.385000000000002,Africa
+152,Congo,Milk and Wheat Products,10.69,15.23,Africa
+153,Congo,Poultry,6.81,7.2700000000000005,Africa
+154,Congo,Protein Foods,1.54,2.725,Africa
+155,Congo,Red Meat,2.3800000000000003,52.23333333333333,Africa
+156,Costa Rica,Fish,11.32,18.07,North America
+157,Costa Rica,Grains,42.5,32.985,North America
+158,Costa Rica,Milk and Wheat Products,183.28,261.06,North America
+159,Costa Rica,Poultry,17.509999999999998,17.99,North America
+160,Costa Rica,Protein Foods,1.46,1.565,North America
+161,Costa Rica,Red Meat,8.51,169.02,North America
+162,Croatia,Fish,15.83,25.28,Europe
+163,Croatia,Grains,54.615,11.854999999999999,Europe
+164,Croatia,Milk and Wheat Products,231.02,329.06,Europe
+165,Croatia,Poultry,8.5,8.47,Europe
+166,Croatia,Protein Foods,1.94,3.435,Europe
+167,Croatia,Red Meat,18.970000000000002,198.0966666666667,Europe
+168,Cuba,Fish,4.76,7.6,North America
+169,Cuba,Grains,61.160000000000004,48.53,North America
+170,Cuba,Milk and Wheat Products,99.94,142.35000000000002,North America
+171,Cuba,Poultry,14.985,15.334999999999999,North America
+172,Cuba,Protein Foods,3.285,1.6300000000000001,North America
+173,Cuba,Red Meat,9.15,103.58333333333333,North America
+174,Cyprus,Fish,14.86,23.73,Asia
+175,Cyprus,Grains,44.095,11.1,Asia
+176,Cyprus,Milk and Wheat Products,113.31,161.4,Asia
+177,Cyprus,Poultry,16.715,17.255000000000003,Asia
+178,Cyprus,Protein Foods,2.32,4.079999999999999,Asia
+179,Cyprus,Red Meat,16.406666666666666,163.79,Asia
+180,Czech Republic,Fish,8.25,13.17,Europe
+181,Czech Republic,Grains,48.730000000000004,11.9,Europe
+182,Czech Republic,Milk and Wheat Products,195.2,278.04,Europe
+183,Czech Republic,Poultry,15.375,15.610000000000001,Europe
+184,Czech Republic,Protein Foods,1.645,2.37,Europe
+185,Czech Republic,Red Meat,16.553333333333335,136.37333333333333,Europe
+186,Denmark,Fish,16.49,26.33,Europe
+187,Denmark,Grains,51.48,12.52,Europe
+188,Denmark,Milk and Wheat Products,277.3,394.99,Europe
+189,Denmark,Poultry,21.05,21.415,Europe
+190,Denmark,Protein Foods,2.9850000000000003,5.26,Europe
+191,Denmark,Red Meat,18.083333333333332,332.8233333333333,Europe
+192,Ecuador,Fish,5.17,8.25,South America
+193,Ecuador,Grains,42.13,32.575,South America
+194,Ecuador,Milk and Wheat Products,139.6,198.85,South America
+195,Ecuador,Poultry,14.93,15.415,South America
+196,Ecuador,Protein Foods,0.49,0.865,South America
+197,Ecuador,Red Meat,10.496666666666668,193.0233333333333,South America
+198,Egypt,Fish,21.46,34.260000000000005,Africa
+199,Egypt,Grains,93.30000000000001,39.445,Africa
+200,Egypt,Milk and Wheat Products,59.46,84.69,Africa
+201,Egypt,Poultry,9.51,9.86,Africa
+202,Egypt,Protein Foods,1.23,1.7550000000000001,Africa
+203,Egypt,Red Meat,4.826666666666667,150.95,Africa
+204,El Salvador,Fish,6.25,9.98,North America
+205,El Salvador,Grains,19.36,9.43,North America
+206,El Salvador,Milk and Wheat Products,124.34,177.11,North America
+207,El Salvador,Poultry,14.675,15.024999999999999,North America
+208,El Salvador,Protein Foods,0.9500000000000001,1.155,North America
+209,El Salvador,Red Meat,3.066666666666667,65.24333333333333,North America
+210,Estonia,Fish,12.78,20.41,Europe
+211,Estonia,Grains,45.96,10.16,Europe
+212,Estonia,Milk and Wheat Products,284.85,405.74,Europe
+213,Estonia,Poultry,16.885,17.155,Europe
+214,Estonia,Protein Foods,2.165,3.8049999999999997,Europe
+215,Estonia,Red Meat,12.436666666666667,114.11000000000001,Europe
+216,Ethiopia,Fish,0.24,0.38,Africa
+217,Ethiopia,Grains,16.755000000000003,4.42,Africa
+218,Ethiopia,Milk and Wheat Products,44.14,62.87,Africa
+219,Ethiopia,Poultry,0.51,0.5199999999999999,Africa
+220,Ethiopia,Protein Foods,0.83,1.1700000000000002,Africa
+221,Ethiopia,Red Meat,1.7333333333333334,55.48333333333333,Africa
+222,Fiji,Fish,35.01,55.9,Oceania
+223,Fiji,Grains,64.92,37.22,Oceania
+224,Fiji,Milk and Wheat Products,40.2,57.260000000000005,Oceania
+225,Fiji,Poultry,13.350000000000001,13.84,Oceania
+226,Fiji,Protein Foods,0.8,1.22,Oceania
+227,Fiji,Red Meat,6.390000000000001,166.1233333333333,Oceania
+228,Finland,Fish,33.8,53.97,Europe
+229,Finland,Grains,43.205000000000005,10.65,Europe
+230,Finland,Milk and Wheat Products,430.76,613.57,Europe
+231,Finland,Poultry,14.71,15.055,Europe
+232,Finland,Protein Foods,1.7550000000000001,3.055,Europe
+233,Finland,Red Meat,18.63,246.5233333333333,Europe
+234,France,Fish,22.91,36.58,Europe
+235,France,Grains,56.655,13.46,Europe
+236,France,Milk and Wheat Products,241.31,343.72,Europe
+237,France,Poultry,18.03,18.345000000000002,Europe
+238,France,Protein Foods,2.7199999999999998,4.779999999999999,Europe
+239,France,Red Meat,20.046666666666663,322.1933333333333,Europe
+240,French Polynesia,Fish,38.95,62.190000000000005,Oceania
+241,French Polynesia,Grains,52.129999999999995,29.32,Oceania
+242,French Polynesia,Milk and Wheat Products,93.56,133.26999999999998,Oceania
+243,French Polynesia,Poultry,29.15,30.634999999999998,Oceania
+244,French Polynesia,Protein Foods,1.555,2.2449999999999997,Oceania
+245,French Polynesia,Red Meat,16.16,368.27666666666664,Oceania
+246,Gambia,Fish,23.130000000000003,36.93,Africa
+247,Gambia,Grains,49.875,43.185,Africa
+248,Gambia,Milk and Wheat Products,45.71,65.11,Africa
+249,Gambia,Poultry,1.8250000000000002,1.885,Africa
+250,Gambia,Protein Foods,2.6350000000000002,4.665,Africa
+251,Gambia,Red Meat,1.0166666666666668,30.716666666666665,Africa
+252,Georgia,Fish,10.42,16.64,Asia
+253,Georgia,Grains,83.035,17.275000000000002,Asia
+254,Georgia,Milk and Wheat Products,149.26,212.61,Asia
+255,Georgia,Poultry,9.2,9.405,Asia
+256,Georgia,Protein Foods,1.235,2.185,Asia
+257,Georgia,Red Meat,5.2,80.01666666666667,Asia
+258,Germany,Fish,11.16,17.82,Europe
+259,Germany,Grains,43.37500000000001,10.09,Europe
+260,Germany,Milk and Wheat Products,258.7,368.49,Europe
+261,Germany,Poultry,14.975,15.14,Europe
+262,Germany,Protein Foods,4.42,7.245,Europe
+263,Germany,Red Meat,21.900000000000002,205.01,Europe
+264,Ghana,Fish,26.05,41.59,Africa
+265,Ghana,Grains,23.240000000000002,21.875,Africa
+266,Ghana,Milk and Wheat Products,9.08,12.93,Africa
+267,Ghana,Poultry,4.92,5.1899999999999995,Africa
+268,Ghana,Protein Foods,2.7849999999999997,4.92,Africa
+269,Ghana,Red Meat,1.3966666666666667,33.126666666666665,Africa
+270,Greece,Fish,14.42,23.02,Europe
+271,Greece,Grains,65.34,16.075,Europe
+272,Greece,Milk and Wheat Products,255.26,363.59,Europe
+273,Greece,Poultry,12.934999999999999,13.11,Europe
+274,Greece,Protein Foods,5.26,9.3,Europe
+275,Greece,Red Meat,18.96,344.57,Europe
+276,Grenada,Fish,27.95,44.63,North America
+277,Grenada,Grains,34.575,11.795,North America
+278,Grenada,Milk and Wheat Products,86.88,123.75,North America
+279,Grenada,Poultry,26.924999999999997,28.12,North America
+280,Grenada,Protein Foods,0.095,0.16,North America
+281,Grenada,Red Meat,5.41,63.77333333333333,North America
+282,Guatemala,Fish,1.08,1.72,North America
+283,Guatemala,Grains,20.779999999999998,7.045,North America
+284,Guatemala,Milk and Wheat Products,46.6,66.38,North America
+285,Guatemala,Poultry,15.53,15.545000000000002,North America
+286,Guatemala,Protein Foods,1.16,1.84,North America
+287,Guatemala,Red Meat,3.56,66.00666666666667,North America
+288,Guinea,Fish,9.18,14.66,Africa
+289,Guinea,Grains,57.835,63.910000000000004,Africa
+290,Guinea,Milk and Wheat Products,20.62,29.37,Africa
+291,Guinea,Poultry,1.8900000000000001,1.88,Africa
+292,Guinea,Protein Foods,2.07,3.665,Africa
+293,Guinea,Red Meat,2.6733333333333333,83.25666666666666,Africa
+294,Honduras,Fish,2.7,4.31,North America
+295,Honduras,Grains,25.89,12.785,North America
+296,Honduras,Milk and Wheat Products,91.33,130.09,North America
+297,Honduras,Poultry,12.74,13.285,North America
+298,Honduras,Protein Foods,0.38,0.665,North America
+299,Honduras,Red Meat,4.57,82.07000000000001,North America
+300,Hong Kong,Fish,42.44,67.76,Asia
+301,Hong Kong,Grains,48.31,32.885,Asia
+302,Hong Kong,Milk and Wheat Products,105.85,150.76999999999998,Asia
+303,Hong Kong,Poultry,34.68,36.125,Asia
+304,Hong Kong,Protein Foods,8.3,12.850000000000001,Asia
+305,Hong Kong,Red Meat,31.71666666666667,370.6766666666667,Asia
+306,Hungary,Fish,4.930000000000001,7.87,Europe
+307,Hungary,Grains,56.065000000000005,11.86,Europe
+308,Hungary,Milk and Wheat Products,159.05,226.55,Europe
+309,Hungary,Poultry,18.115000000000002,18.49,Europe
+310,Hungary,Protein Foods,0.325,0.565,Europe
+311,Hungary,Red Meat,13.333333333333334,93.51333333333334,Europe
+312,Iceland,Fish,74.41000000000001,118.81,Europe
+313,Iceland,Grains,38.405,9.445,Europe
+314,Iceland,Milk and Wheat Products,225.82,321.66,Europe
+315,Iceland,Poultry,17.555,18.215,Europe
+316,Iceland,Protein Foods,1.9949999999999999,3.46,Europe
+317,Iceland,Red Meat,18.723333333333333,409.55,Europe
+318,India,Fish,4.71,7.52,Asia
+319,India,Grains,65.025,50.24,Asia
+320,India,Milk and Wheat Products,84.5,120.36,Asia
+321,India,Poultry,2.23,2.1950000000000003,Asia
+322,India,Protein Foods,1.155,1.79,Asia
+323,India,Red Meat,0.5566666666666666,15.429999999999998,Asia
+324,Indonesia,Fish,25.65,40.95,Asia
+325,Indonesia,Grains,80.035,88.55999999999999,Asia
+326,Indonesia,Milk and Wheat Products,14.82,21.110000000000003,Asia
+327,Indonesia,Poultry,6.1899999999999995,6.2700000000000005,Asia
+328,Indonesia,Protein Foods,3.02,4.6049999999999995,Asia
+329,Indonesia,Red Meat,2.0100000000000002,35.526666666666664,Asia
+330,Iran,Fish,9.8,15.65,Asia
+331,Iran,Grains,91.63,33.785,Asia
+332,Iran,Milk and Wheat Products,46.690000000000005,66.51,Asia
+333,Iran,Poultry,16.54,17.165,Asia
+334,Iran,Protein Foods,6.08,10.76,Asia
+335,Iran,Red Meat,2.4233333333333333,79.89666666666666,Asia
+336,Ireland,Fish,17.39,27.77,Europe
+337,Ireland,Grains,55.49,12.215,Europe
+338,Ireland,Milk and Wheat Products,291.86,415.73,Europe
+339,Ireland,Poultry,17.61,18.22,Europe
+340,Ireland,Protein Foods,2.175,3.685,Europe
+341,Ireland,Red Meat,19.616666666666667,315.97666666666674,Europe
+342,Israel,Fish,22.18,35.41,Asia
+343,Israel,Grains,63.835,21.325000000000003,Asia
+344,Israel,Milk and Wheat Products,193.6,275.76,Asia
+345,Israel,Poultry,36.925,38.785,Asia
+346,Israel,Protein Foods,3.905,6.8500000000000005,Asia
+347,Israel,Red Meat,10.88,320.20666666666665,Asia
+348,Italy,Fish,15.6,24.91,Europe
+349,Italy,Grains,76.055,17.63,Europe
+350,Italy,Milk and Wheat Products,246.88,351.66,Europe
+351,Italy,Poultry,15.975000000000001,16.119999999999997,Europe
+352,Italy,Protein Foods,3.82,6.755,Europe
+353,Italy,Red Meat,19.933333333333334,249.5833333333333,Europe
+354,Jamaica,Fish,21.95,35.05,North America
+355,Jamaica,Grains,47.059999999999995,21.745,North America
+356,Jamaica,Milk and Wheat Products,91.13,129.81,North America
+357,Jamaica,Poultry,27.39,29.25,North America
+358,Jamaica,Protein Foods,0.91,1.61,North America
+359,Jamaica,Red Meat,3.0733333333333337,60.25333333333334,North America
+360,Japan,Fish,31.1,49.66,Asia
+361,Japan,Grains,52.445,42.59,Asia
+362,Japan,Milk and Wheat Products,72.06,102.64,Asia
+363,Japan,Poultry,19.285,19.225,Asia
+364,Japan,Protein Foods,4.965,3.94,Asia
+365,Japan,Red Meat,9.97,120.07666666666667,Asia
+366,Jordan,Fish,5.13,8.19,Asia
+367,Jordan,Grains,78.20499999999998,25.625,Asia
+368,Jordan,Milk and Wheat Products,77.67999999999999,110.65,Asia
+369,Jordan,Poultry,18.655,19.735,Asia
+370,Jordan,Protein Foods,1.79,3.155,Asia
+371,Jordan,Red Meat,3.7699999999999996,124.03000000000002,Asia
+372,Kazakhstan,Fish,5.21,8.32,Asia
+373,Kazakhstan,Grains,49.815,13.485,Asia
+374,Kazakhstan,Milk and Wheat Products,288.12,410.4,Asia
+375,Kazakhstan,Poultry,13.334999999999999,13.68,Asia
+376,Kazakhstan,Protein Foods,2.585,4.555,Asia
+377,Kazakhstan,Red Meat,14.433333333333332,364.3066666666666,Asia
+378,Kenya,Fish,4.2700000000000005,6.819999999999999,Africa
+379,Kenya,Grains,23.794999999999998,11.584999999999999,Africa
+380,Kenya,Milk and Wheat Products,94.86,135.12,Africa
+381,Kenya,Poultry,1.155,1.0950000000000002,Africa
+382,Kenya,Protein Foods,0.9199999999999999,1.4949999999999999,Africa
+383,Kenya,Red Meat,3.896666666666666,120.18333333333332,Africa
+384,Kuwait,Fish,11.99,19.14,Asia
+385,Kuwait,Grains,70.295,37.27,Asia
+386,Kuwait,Milk and Wheat Products,157.66,224.57,Asia
+387,Kuwait,Poultry,33.105,34.58,Asia
+388,Kuwait,Protein Foods,2.645,4.645,Asia
+389,Kuwait,Red Meat,9.546666666666667,316.24666666666667,Asia
+390,Latvia,Fish,21.3,34.01,Europe
+391,Latvia,Grains,37.169999999999995,8.295,Europe
+392,Latvia,Milk and Wheat Products,174.11,248.0,Europe
+393,Latvia,Poultry,17.28,17.47,Europe
+394,Latvia,Protein Foods,1.91,3.355,Europe
+395,Latvia,Red Meat,13.47,97.77666666666669,Europe
+396,Liberia,Fish,4.13,6.59,Africa
+397,Liberia,Grains,52.85,61.67,Africa
+398,Liberia,Milk and Wheat Products,3.04,4.33,Africa
+399,Liberia,Poultry,5.48,5.725,Africa
+400,Liberia,Protein Foods,0.97,1.2999999999999998,Africa
+401,Liberia,Red Meat,1.7566666666666666,18.356666666666666,Africa
+402,Lithuania,Fish,42.39,67.67999999999999,Europe
+403,Lithuania,Grains,62.33,13.56,Europe
+404,Lithuania,Milk and Wheat Products,295.46,420.85,Europe
+405,Lithuania,Poultry,19.975,20.435,Europe
+406,Lithuania,Protein Foods,1.075,1.89,Europe
+407,Lithuania,Red Meat,16.8,102.86666666666667,Europe
+408,Luxembourg,Fish,23.09,36.87,Europe
+409,Luxembourg,Grains,53.7,12.525,Europe
+410,Luxembourg,Milk and Wheat Products,255.3,363.65,Europe
+411,Luxembourg,Poultry,18.005000000000003,18.205,Europe
+412,Luxembourg,Protein Foods,0.48500000000000004,0.835,Europe
+413,Luxembourg,Red Meat,25.043333333333333,378.25333333333333,Europe
+414,Macedonia,Fish,5.470000000000001,8.729999999999999,Europe
+415,Macedonia,Grains,53.805,11.795,Europe
+416,Macedonia,Milk and Wheat Products,157.93,224.96,Europe
+417,Macedonia,Poultry,12.575,13.01,Europe
+418,Macedonia,Protein Foods,3.165,5.300000000000001,Europe
+419,Macedonia,Red Meat,6.326666666666665,102.28333333333335,Europe
+420,Madagascar,Fish,4.41,7.04,Africa
+421,Madagascar,Grains,55.77,66.46499999999999,Africa
+422,Madagascar,Milk and Wheat Products,24.84,35.379999999999995,Africa
+423,Madagascar,Poultry,1.925,2.0100000000000002,Africa
+424,Madagascar,Protein Foods,0.175,0.31,Africa
+425,Madagascar,Red Meat,3.546666666666667,86.92,Africa
+426,Malawi,Fish,7.33,11.7,Africa
+427,Malawi,Grains,8.26,4.16,Africa
+428,Malawi,Milk and Wheat Products,7.98,11.37,Africa
+429,Malawi,Poultry,1.23,1.2349999999999999,Africa
+430,Malawi,Protein Foods,3.42,4.89,Africa
+431,Malawi,Red Meat,3.2900000000000005,54.76666666666667,Africa
+432,Malaysia,Fish,49.43,78.92,Asia
+433,Malaysia,Grains,66.145,56.855000000000004,Asia
+434,Malaysia,Milk and Wheat Products,25.28,36.01,Asia
+435,Malaysia,Poultry,28.79,29.634999999999998,Asia
+436,Malaysia,Protein Foods,1.47,2.5749999999999997,Asia
+437,Malaysia,Red Meat,5.073333333333333,87.19333333333333,Asia
+438,Maldives,Fish,179.70999999999998,286.94,Asia
+439,Maldives,Grains,64.25,39.875,Asia
+440,Maldives,Milk and Wheat Products,111.47,158.78,Asia
+441,Maldives,Poultry,14.629999999999999,14.875,Asia
+442,Maldives,Protein Foods,8.015,14.055,Asia
+443,Maldives,Red Meat,3.7866666666666666,106.71,Asia
+444,Malta,Fish,24.58,39.25,Europe
+445,Malta,Grains,72.27000000000001,16.485,Europe
+446,Malta,Milk and Wheat Products,190.06,270.72,Europe
+447,Malta,Poultry,19.02,19.525,Europe
+448,Malta,Protein Foods,2.8349999999999995,4.984999999999999,Europe
+449,Malta,Red Meat,18.216666666666665,251.98333333333335,Europe
+450,Mauritius,Fish,19.66,31.39,Africa
+451,Mauritius,Grains,79.78999999999999,40.019999999999996,Africa
+452,Mauritius,Milk and Wheat Products,117.27,167.04,Africa
+453,Mauritius,Poultry,22.415,23.59,Africa
+454,Mauritius,Protein Foods,1.315,2.1299999999999994,Africa
+455,Mauritius,Red Meat,4.716666666666667,114.05333333333334,Africa
+456,Mexico,Fish,7.56,12.07,North America
+457,Mexico,Grains,20.425,6.965,North America
+458,Mexico,Milk and Wheat Products,111.87,159.35000000000002,North America
+459,Mexico,Poultry,24.23,24.599999999999998,North America
+460,Mexico,Protein Foods,1.265,2.225,North America
+461,Mexico,Red Meat,10.483333333333333,186.04333333333332,North America
+462,Morocco,Fish,17.439999999999998,27.85,Africa
+463,Morocco,Grains,90.39999999999999,17.84,Africa
+464,Morocco,Milk and Wheat Products,54.68,77.89,Africa
+465,Morocco,Poultry,13.725,14.225,Africa
+466,Morocco,Protein Foods,1.615,2.86,Africa
+467,Morocco,Red Meat,4.136666666666666,133.60999999999999,Africa
+468,Mozambique,Fish,7.74,12.36,Africa
+469,Mozambique,Grains,19.03,16.375,Africa
+470,Mozambique,Milk and Wheat Products,4.79,6.819999999999999,Africa
+471,Mozambique,Poultry,1.555,1.5350000000000001,Africa
+472,Mozambique,Protein Foods,1.3199999999999998,2.3149999999999995,Africa
+473,Mozambique,Red Meat,2.356666666666667,27.256666666666664,Africa
+474,Myanmar,Fish,54.260000000000005,86.64,Asia
+475,Myanmar,Grains,69.51,85.565,Asia
+476,Myanmar,Milk and Wheat Products,31.48,44.84,Asia
+477,Myanmar,Poultry,14.16,14.704999999999998,Asia
+478,Myanmar,Protein Foods,2.44,4.07,Asia
+479,Myanmar,Red Meat,5.713333333333334,74.54666666666667,Asia
+480,Namibia,Fish,10.7,17.08,Africa
+481,Namibia,Grains,21.285000000000004,7.49,Africa
+482,Namibia,Milk and Wheat Products,73.05,104.05,Africa
+483,Namibia,Poultry,6.91,7.295,Africa
+484,Namibia,Protein Foods,0.39,0.645,Africa
+485,Namibia,Red Meat,3.41,70.04,Africa
+486,Nepal,Fish,2.17,3.46,Asia
+487,Nepal,Grains,69.105,60.955000000000005,Asia
+488,Nepal,Milk and Wheat Products,52.1,74.21000000000001,Asia
+489,Nepal,Poultry,1.49,1.4900000000000002,Asia
+490,Nepal,Protein Foods,1.2149999999999999,2.14,Asia
+491,Nepal,Red Meat,3.5533333333333332,106.46,Asia
+492,Netherlands,Fish,18.64,29.76,Europe
+493,Netherlands,Grains,36.55,8.565000000000001,Europe
+494,Netherlands,Milk and Wheat Products,341.47,486.39,Europe
+495,Netherlands,Poultry,18.965,19.28,Europe
+496,Netherlands,Protein Foods,4.03,7.050000000000001,Europe
+497,Netherlands,Red Meat,18.323333333333334,235.62666666666667,Europe
+498,New Caledonia,Fish,19.38,30.94,Oceania
+499,New Caledonia,Grains,49.61,18.975,Oceania
+500,New Caledonia,Milk and Wheat Products,108.0,153.84,Oceania
+501,New Caledonia,Poultry,26.605,27.89,Oceania
+502,New Caledonia,Protein Foods,1.755,2.745,Oceania
+503,New Caledonia,Red Meat,12.64,211.54,Oceania
+504,New Zealand,Fish,20.36,32.51,Oceania
+505,New Zealand,Grains,43.035000000000004,13.195,Oceania
+506,New Zealand,Milk and Wheat Products,137.25,195.5,Oceania
+507,New Zealand,Poultry,22.445,23.34,Oceania
+508,New Zealand,Protein Foods,4.329999999999999,7.375,Oceania
+509,New Zealand,Red Meat,21.23,478.3733333333333,Oceania
+510,Nicaragua,Fish,3.59,5.73,North America
+511,Nicaragua,Grains,35.75,30.41,North America
+512,Nicaragua,Milk and Wheat Products,85.16,121.3,North America
+513,Nicaragua,Poultry,13.105,13.695,North America
+514,Nicaragua,Protein Foods,1.1849999999999998,2.09,North America
+515,Nicaragua,Red Meat,2.706666666666667,52.75666666666667,North America
+516,Niger,Fish,2.7,4.31,Africa
+517,Niger,Grains,8.98,8.88,Africa
+518,Niger,Milk and Wheat Products,58.92,83.93,Africa
+519,Niger,Poultry,0.6900000000000001,0.72,Africa
+520,Niger,Protein Foods,3.475,6.15,Africa
+521,Niger,Red Meat,4.41,141.04999999999998,Africa
+522,Nigeria,Fish,16.03,25.59,Africa
+523,Nigeria,Grains,24.525,20.05,Africa
+524,Nigeria,Milk and Wheat Products,7.91,11.27,Africa
+525,Nigeria,Poultry,2.5949999999999998,2.52,Africa
+526,Nigeria,Protein Foods,4.765000000000001,6.72,Africa
+527,Nigeria,Red Meat,2.1733333333333333,57.45000000000001,Africa
+528,Norway,Fish,38.18,60.96,Europe
+529,Norway,Grains,50.74,12.05,Europe
+530,Norway,Milk and Wheat Products,261.34000000000003,372.25,Europe
+531,Norway,Poultry,16.21,16.525,Europe
+532,Norway,Protein Foods,2.6950000000000003,4.7,Europe
+533,Norway,Red Meat,16.226666666666667,294.04333333333335,Europe
+534,Oman,Fish,21.56,34.42,Asia
+535,Oman,Grains,60.324999999999996,42.294999999999995,Asia
+536,Oman,Milk and Wheat Products,152.28,216.91,Asia
+537,Oman,Poultry,19.655,20.509999999999998,Asia
+538,Oman,Protein Foods,0.9450000000000001,1.53,Asia
+539,Oman,Red Meat,9.326666666666666,305.56666666666666,Asia
+540,Pakistan,Fish,1.87,2.99,Asia
+541,Pakistan,Grains,62.94,18.675,Asia
+542,Pakistan,Milk and Wheat Products,183.13,260.85,Asia
+543,Pakistan,Poultry,3.98,4.045,Asia
+544,Pakistan,Protein Foods,0.41500000000000004,0.735,Asia
+545,Pakistan,Red Meat,3.7600000000000002,119.44,Asia
+546,Panama,Fish,11.05,17.64,North America
+547,Panama,Grains,52.69,46.215,North America
+548,Panama,Milk and Wheat Products,70.29,100.12,North America
+549,Panama,Poultry,17.669999999999998,18.63,North America
+550,Panama,Protein Foods,2.29,1.725,North America
+551,Panama,Red Meat,11.296666666666667,225.85333333333335,North America
+552,Paraguay,Fish,3.6,5.75,South America
+553,Paraguay,Grains,18.21,6.145,South America
+554,Paraguay,Milk and Wheat Products,75.72,107.86,South America
+555,Paraguay,Poultry,12.61,12.08,South America
+556,Paraguay,Protein Foods,0.8,1.415,South America
+557,Paraguay,Red Meat,15.536666666666667,241.26000000000002,South America
+558,Peru,Fish,15.739999999999998,25.130000000000003,South America
+559,Peru,Grains,52.52,36.65,South America
+560,Peru,Milk and Wheat Products,62.15,88.53,South America
+561,Peru,Poultry,10.24,10.32,South America
+562,Peru,Protein Foods,1.12,0.9349999999999999,South America
+563,Peru,Red Meat,3.1799999999999997,64.45666666666666,South America
+564,Philippines,Fish,28.51,45.52,Asia
+565,Philippines,Grains,71.28,78.63000000000001,Asia
+566,Philippines,Milk and Wheat Products,15.66,22.31,Asia
+567,Philippines,Poultry,7.965,8.24,Asia
+568,Philippines,Protein Foods,1.055,1.845,Asia
+569,Philippines,Red Meat,7.673333333333333,70.00666666666667,Asia
+570,Poland,Fish,10.49,16.75,Europe
+571,Poland,Grains,54.89,10.985,Europe
+572,Poland,Milk and Wheat Products,205.39,292.56,Europe
+573,Poland,Poultry,17.47,18.18,Europe
+574,Poland,Protein Foods,1.145,1.99,Europe
+575,Poland,Red Meat,16.176666666666666,78.59333333333333,Europe
+576,Portugal,Fish,45.39,72.47,Europe
+577,Portugal,Grains,54.58,18.5,Europe
+578,Portugal,Milk and Wheat Products,205.04,292.06,Europe
+579,Portugal,Poultry,19.595,20.345,Europe
+580,Portugal,Protein Foods,1.96,3.46,Europe
+581,Portugal,Red Meat,18.91333333333333,241.71333333333334,Europe
+582,Romania,Fish,6.07,9.69,Europe
+583,Romania,Grains,68.73,14.514999999999999,Europe
+584,Romania,Milk and Wheat Products,238.33,339.48,Europe
+585,Romania,Poultry,14.16,14.205,Europe
+586,Romania,Protein Foods,0.905,1.595,Europe
+587,Romania,Red Meat,11.166666666666666,118.83333333333333,Europe
+588,Russia,Fish,20.82,33.24,Europe
+589,Russia,Grains,67.85000000000001,15.505,Europe
+590,Russia,Milk and Wheat Products,163.57,232.99,Europe
+591,Russia,Poultry,21.465,21.855,Europe
+592,Russia,Protein Foods,0.8350000000000001,1.445,Europe
+593,Russia,Red Meat,14.68,221.2733333333333,Europe
+594,Rwanda,Fish,3.88,6.2,Africa
+595,Rwanda,Grains,10.02,6.6450000000000005,Africa
+596,Rwanda,Milk and Wheat Products,7.23,10.3,Africa
+597,Rwanda,Poultry,0.75,0.7949999999999999,Africa
+598,Rwanda,Protein Foods,1.255,0.9500000000000001,Africa
+599,Rwanda,Red Meat,1.74,49.449999999999996,Africa
+600,Saudi Arabia,Fish,11.99,19.14,Asia
+601,Saudi Arabia,Grains,62.745000000000005,31.575000000000003,Asia
+602,Saudi Arabia,Milk and Wheat Products,83.64999999999999,119.15,Asia
+603,Saudi Arabia,Poultry,27.209999999999997,28.810000000000002,Asia
+604,Saudi Arabia,Protein Foods,1.64,2.8699999999999997,Asia
+605,Saudi Arabia,Red Meat,4.33,142.68666666666667,Asia
+606,Senegal,Fish,22.94,36.63,Africa
+607,Senegal,Grains,54.80500000000001,49.815000000000005,Africa
+608,Senegal,Milk and Wheat Products,16.86,24.02,Africa
+609,Senegal,Poultry,3.1249999999999996,3.23,Africa
+610,Senegal,Protein Foods,2.015,3.565,Africa
+611,Senegal,Red Meat,3.326666666666666,98.52,Africa
+612,Serbia,Fish,5.59,8.93,Europe
+613,Serbia,Grains,53.55,10.875,Europe
+614,Serbia,Milk and Wheat Products,148.53,211.57,Europe
+615,Serbia,Poultry,9.765,9.8,Europe
+616,Serbia,Protein Foods,1.655,2.9299999999999997,Europe
+617,Serbia,Red Meat,14.216666666666667,151.87666666666667,Europe
+618,Sierra Leone,Fish,32.03,51.14,Africa
+619,Sierra Leone,Grains,56.01,66.925,Africa
+620,Sierra Leone,Milk and Wheat Products,7.0,9.97,Africa
+621,Sierra Leone,Poultry,3.4450000000000003,3.55,Africa
+622,Sierra Leone,Protein Foods,2.785,4.93,Africa
+623,Sierra Leone,Red Meat,1.2866666666666666,29.496666666666666,Africa
+624,Slovakia,Fish,8.39,13.4,Europe
+625,Slovakia,Grains,63.25,13.63,Europe
+626,Slovakia,Milk and Wheat Products,143.14,203.89,Europe
+627,Slovakia,Poultry,15.59,15.495,Europe
+628,Slovakia,Protein Foods,1.86,3.28,Europe
+629,Slovakia,Red Meat,12.376666666666667,92.74666666666667,Europe
+630,Slovenia,Fish,7.76,12.39,Europe
+631,Slovenia,Grains,53.690000000000005,12.385,Europe
+632,Slovenia,Milk and Wheat Products,235.01,334.75,Europe
+633,Slovenia,Poultry,16.41,16.9,Europe
+634,Slovenia,Protein Foods,3.015,4.845,Europe
+635,Slovenia,Red Meat,15.803333333333335,232.0533333333333,Europe
+636,South Africa,Fish,5.56,8.88,Africa
+637,South Africa,Grains,38.77,16.875,Africa
+638,South Africa,Milk and Wheat Products,55.75,79.41000000000001,Africa
+639,South Africa,Poultry,22.39,23.49,Africa
+640,South Africa,Protein Foods,1.155,1.205,Africa
+641,South Africa,Red Meat,8.823333333333334,240.32666666666668,Africa
+642,South Korea,Fish,33.09,52.83,Asia
+643,South Korea,Grains,68.00999999999999,59.35,Asia
+644,South Korea,Milk and Wheat Products,29.05,41.38,Asia
+645,South Korea,Poultry,13.62,13.760000000000002,Asia
+646,South Korea,Protein Foods,6.615,6.199999999999999,Asia
+647,South Korea,Red Meat,15.810000000000002,189.74,Asia
+648,Spain,Fish,28.83,46.03,Europe
+649,Spain,Grains,51.099999999999994,14.274999999999999,Europe
+650,Spain,Milk and Wheat Products,164.29,234.01,Europe
+651,Spain,Poultry,20.975,21.494999999999997,Europe
+652,Spain,Protein Foods,3.73,6.59,Europe
+653,Spain,Red Meat,21.076666666666668,207.90333333333334,Europe
+654,Sri Lanka,Fish,24.92,39.790000000000006,Asia
+655,Sri Lanka,Grains,73.365,73.735,Asia
+656,Sri Lanka,Milk and Wheat Products,34.98,49.83,Asia
+657,Sri Lanka,Poultry,4.765000000000001,4.765000000000001,Asia
+658,Sri Lanka,Protein Foods,0.545,0.965,Asia
+659,Sri Lanka,Red Meat,0.5066666666666667,15.303333333333333,Asia
+660,Swaziland,Fish,1.26,2.01,Africa
+661,Swaziland,Grains,29.15,17.075,Africa
+662,Swaziland,Milk and Wheat Products,56.6,80.61999999999999,Africa
+663,Swaziland,Poultry,3.84,4.01,Africa
+664,Swaziland,Protein Foods,3.495,5.825,Africa
+665,Swaziland,Red Meat,6.489999999999999,180.83,Africa
+666,Sweden,Fish,23.86,38.1,Europe
+667,Sweden,Grains,42.775,11.405,Europe
+668,Sweden,Milk and Wheat Products,341.23,486.05,Europe
+669,Sweden,Poultry,15.004999999999999,15.075,Europe
+670,Sweden,Protein Foods,3.18,5.545,Europe
+671,Sweden,Red Meat,20.996666666666666,312.9433333333333,Europe
+672,Switzerland,Fish,13.48,21.52,Europe
+673,Switzerland,Grains,45.970000000000006,10.09,Europe
+674,Switzerland,Milk and Wheat Products,318.69,453.94,Europe
+675,Switzerland,Poultry,13.454999999999998,13.635000000000002,Europe
+676,Switzerland,Protein Foods,4.8549999999999995,8.305,Europe
+677,Switzerland,Red Meat,18.05666666666667,272.41,Europe
+678,Taiwan,Fish,18.29,29.2,Asia
+679,Taiwan,Grains,48.385000000000005,34.19,Asia
+680,Taiwan,Milk and Wheat Products,41.720000000000006,59.43,Asia
+681,Taiwan,Poultry,22.605,23.265,Asia
+682,Taiwan,Protein Foods,13.004999999999999,11.834999999999999,Asia
+683,Taiwan,Red Meat,15.166666666666666,110.78000000000002,Asia
+684,Tanzania,Fish,5.5,8.78,Africa
+685,Tanzania,Grains,18.475,14.965,Africa
+686,Tanzania,Milk and Wheat Products,40.290000000000006,57.39,Africa
+687,Tanzania,Poultry,1.21,1.255,Africa
+688,Tanzania,Protein Foods,2.99,5.265,Africa
+689,Tanzania,Red Meat,2.5633333333333335,77.96,Africa
+690,Thailand,Fish,19.45,31.06,Asia
+691,Thailand,Grains,62.75,74.35000000000001,Asia
+692,Thailand,Milk and Wheat Products,29.35,41.81,Asia
+693,Thailand,Poultry,13.02,13.025,Asia
+694,Thailand,Protein Foods,1.815,1.81,Asia
+695,Thailand,Red Meat,5.203333333333333,42.25333333333333,Asia
+696,Togo,Fish,11.69,18.67,Africa
+697,Togo,Grains,19.45,17.860000000000003,Africa
+698,Togo,Milk and Wheat Products,7.96,11.34,Africa
+699,Togo,Poultry,3.745,3.9549999999999996,Africa
+700,Togo,Protein Foods,1.7999999999999998,3.175,Africa
+701,Togo,Red Meat,1.5599999999999998,36.03333333333333,Africa
+702,Trinidad and Tobago,Fish,20.54,32.8,North America
+703,Trinidad and Tobago,Grains,53.275,19.08,North America
+704,Trinidad and Tobago,Milk and Wheat Products,103.8,147.85000000000002,North America
+705,Trinidad and Tobago,Poultry,31.235000000000003,33.225,North America
+706,Trinidad and Tobago,Protein Foods,1.91,3.355,North America
+707,Trinidad and Tobago,Red Meat,5.946666666666666,106.14666666666666,North America
+708,Tunisia,Fish,12.63,20.17,Africa
+709,Tunisia,Grains,99.285,19.514999999999997,Africa
+710,Tunisia,Milk and Wheat Products,114.47,163.05,Africa
+711,Tunisia,Poultry,13.085,13.46,Africa
+712,Tunisia,Protein Foods,4.109999999999999,6.035,Africa
+713,Tunisia,Red Meat,3.6233333333333335,119.21666666666665,Africa
+714,Turkey,Fish,5.58,8.91,Asia
+715,Turkey,Grains,90.35000000000001,23.074999999999996,Asia
+716,Turkey,Milk and Wheat Products,193.94,276.25,Asia
+717,Turkey,Poultry,13.49,13.850000000000001,Asia
+718,Turkey,Protein Foods,4.84,7.4399999999999995,Asia
+719,Turkey,Red Meat,5.4433333333333325,174.37333333333333,Asia
+720,USA,Fish,12.35,19.72,North America
+721,USA,Grains,43.655,12.07,North America
+722,USA,Milk and Wheat Products,254.69,362.78,North America
+723,USA,Poultry,32.295,33.55500000000001,North America
+724,USA,Protein Foods,3.9499999999999997,6.965,North America
+725,USA,Red Meat,21.436666666666667,410.39333333333326,North America
+726,Uganda,Fish,12.5,19.96,Africa
+727,Uganda,Grains,7.390000000000001,3.935,Africa
+728,Uganda,Milk and Wheat Products,37.27,53.09,Africa
+729,Uganda,Poultry,1.24,1.2550000000000001,Africa
+730,Uganda,Protein Foods,1.89,3.335,Africa
+731,Uganda,Red Meat,3.2566666666666664,71.54,Africa
+732,Ukraine,Fish,15.23,24.32,Europe
+733,Ukraine,Grains,54.075,11.945,Europe
+734,Ukraine,Milk and Wheat Products,145.03,206.58,Europe
+735,Ukraine,Poultry,21.12,21.285,Europe
+736,Ukraine,Protein Foods,1.35,2.375,Europe
+737,Ukraine,Red Meat,9.976666666666667,121.20666666666665,Europe
+738,United Arab Emirates,Fish,20.41,32.59,Asia
+739,United Arab Emirates,Grains,78.77000000000001,45.650000000000006,Asia
+740,United Arab Emirates,Milk and Wheat Products,132.66,188.96,Asia
+741,United Arab Emirates,Poultry,24.634999999999998,25.825000000000003,Asia
+742,United Arab Emirates,Protein Foods,11.555,20.400000000000002,Asia
+743,United Arab Emirates,Red Meat,4.906666666666666,164.00666666666666,Asia
+744,United Kingdom,Fish,15.49,24.73,Europe
+745,United Kingdom,Grains,52.51,13.495,Europe
+746,United Kingdom,Milk and Wheat Products,232.2,330.75,Europe
+747,United Kingdom,Poultry,21.315,22.035,Europe
+748,United Kingdom,Protein Foods,2.1149999999999998,3.71,Europe
+749,United Kingdom,Red Meat,16.133333333333333,269.2233333333333,Europe
+750,Uruguay,Fish,6.53,10.43,South America
+751,Uruguay,Grains,60.405,17.785,South America
+752,Uruguay,Milk and Wheat Products,210.54,299.89,South America
+753,Uruguay,Poultry,20.295,20.78,South America
+754,Uruguay,Protein Foods,0.48,0.8400000000000001,South America
+755,Uruguay,Red Meat,18.05666666666667,415.26,South America
+756,Venezuela,Fish,8.34,13.32,South America
+757,Venezuela,Grains,36.28,19.655,South America
+758,Venezuela,Milk and Wheat Products,117.79,167.78,South America
+759,Venezuela,Poultry,22.455000000000002,23.680000000000003,South America
+760,Venezuela,Protein Foods,0.175,0.31,South America
+761,Venezuela,Red Meat,11.146666666666667,278.57,South America
+762,Vietnam,Fish,26.52,42.34,Asia
+763,Vietnam,Grains,77.525,93.495,Asia
+764,Vietnam,Milk and Wheat Products,16.36,23.3,Asia
+765,Vietnam,Poultry,8.1,8.405,Asia
+766,Vietnam,Protein Foods,6.015000000000001,6.8549999999999995,Asia
+767,Vietnam,Red Meat,14.193333333333333,119.45333333333333,Asia
+768,Zambia,Fish,6.2,9.9,Africa
+769,Zambia,Grains,7.574999999999999,3.105,Africa
+770,Zambia,Milk and Wheat Products,9.71,13.83,Africa
+771,Zambia,Poultry,3.3049999999999997,3.29,Africa
+772,Zambia,Protein Foods,6.17,6.105,Africa
+773,Zambia,Red Meat,2.3666666666666667,58.856666666666676,Africa
+774,Zimbabwe,Fish,2.8,4.470000000000001,Africa
+775,Zimbabwe,Grains,20.7,9.440000000000001,Africa
+776,Zimbabwe,Milk and Wheat Products,31.9,45.44,Africa
+777,Zimbabwe,Poultry,3.3600000000000003,3.475,Africa
+778,Zimbabwe,Protein Foods,1.3800000000000001,2.085,Africa
+779,Zimbabwe,Red Meat,3.66,90.13999999999999,Africa
